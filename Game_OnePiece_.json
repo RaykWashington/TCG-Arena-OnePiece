@@ -1,15 +1,17 @@
 {
-  "name": "One Piece",
-  "menuBackgroundImage": "",
+  "name": "One Piece TCG",
+  "menuBackgroundImage": "https://cf.geekdo-images.com/cpyej29PfijgBDtiOuSFsQ__opengraph/img/oyDAC9NT3fXqvfuaAXipLntZuNA=/0x680:869x1136/fit-in/1200x630/filters:strip_icc()/pic6974116.jpg",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://cf.geekdo-images.com/cpyej29PfijgBDtiOuSFsQ__opengraph/img/oyDAC9NT3fXqvfuaAXipLntZuNA=/0x680:869x1136/fit-in/1200x630/filters:strip_icc()/pic6974116.jpg"
+    ],
     "decksUrl": ""
   },
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "",
-    "cardBack": ""
+    "dataUrl": "https://raykwashington.github.io/TCG-Arena-OnePiece/One_Piece_CardList.json",
+    "cardBack": "https://cf.geekdo-images.com/cpyej29PfijgBDtiOuSFsQ__imagepagezoom/img/xms1Q7H_rdBvATzPJuiISO29Xt8=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6974116.jpg"
   },
   "deckBuilding": {
     "mainFilters": [
