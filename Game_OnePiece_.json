@@ -84,7 +84,7 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Chracter_Section",
+                      "section": "Character_Section",
                       "style": false
                     }
                   ],
@@ -127,7 +127,7 @@
                           "style": false
                         },
                         {
-                          "section": "Starge_Card",
+                          "section": "Stage_Card",
                           "style": false
                         }
                       ],
