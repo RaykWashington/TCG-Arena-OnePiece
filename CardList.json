@@ -1,0 +1,410 @@
+{
+  "ST01-001": {
+    "id": "ST01-001",
+    "face": {
+      "front": {
+        "name": "Monkey.D.Luffy",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png?250425"
+      }
+    },
+    "name": "Monkey.D.Luffy",
+    "type": "Leader",
+    "cost": 5,
+    "power": 5000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST01-002": {
+    "id": "ST01-002",
+    "face": {
+      "front": {
+        "name": "Usopp",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002.png?250425"
+      }
+    },
+    "name": "Usopp",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "ST01-003": {
+    "id": "ST01-003",
+    "face": {
+      "front": {
+        "name": "Karoo",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-003.png?250425"
+      }
+    },
+    "name": "Karoo",
+    "type": "Character",
+    "cost": 1,
+    "power": 3000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Animal",
+      "Alabasta"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST01-004": {
+    "id": "ST01-004",
+    "face": {
+      "front": {
+        "name": "Sanji",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png?250425"
+      }
+    },
+    "name": "Sanji",
+    "type": "Character",
+    "cost": 2,
+    "power": 4000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST01-005": {
+    "id": "ST01-005",
+    "face": {
+      "front": {
+        "name": "Jinbe",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005.png?250425"
+      }
+    },
+    "name": "Jinbe",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST01-006": {
+    "id": "ST01-006",
+    "face": {
+      "front": {
+        "name": "Tony Tony.Chopper",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png?250425"
+      }
+    },
+    "name": "Tony Tony.Chopper",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST01-007": {
+    "id": "ST01-007",
+    "face": {
+      "front": {
+        "name": "Nami",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png?250425"
+      }
+    },
+    "name": "Nami",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "ST01-008": {
+    "id": "ST01-008",
+    "face": {
+      "front": {
+        "name": "Nico Robin",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008.png?250425"
+      }
+    },
+    "name": "Nico Robin",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "ST01-009": {
+    "id": "ST01-009",
+    "face": {
+      "front": {
+        "name": "Nefeltari Vivi",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009.png?250425"
+      }
+    },
+    "name": "Nefeltari Vivi",
+    "type": "Character",
+    "cost": 2,
+    "power": 4000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Alabasta"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "ST01-010": {
+    "id": "ST01-010",
+    "face": {
+      "front": {
+        "name": "Franky",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010.png?250425"
+      }
+    },
+    "name": "Franky",
+    "type": "Character",
+    "cost": 4,
+    "power": 6000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST01-011": {
+    "id": "ST01-011",
+    "face": {
+      "front": {
+        "name": "Brook",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png?250425"
+      }
+    },
+    "name": "Brook",
+    "type": "Character",
+    "cost": 2,
+    "power": 3000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "ST01-012": {
+    "id": "ST01-012",
+    "face": {
+      "front": {
+        "name": "Monkey.D.Luffy",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?250425"
+      }
+    },
+    "name": "Monkey.D.Luffy",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST01-013": {
+    "id": "ST01-013",
+    "face": {
+      "front": {
+        "name": "Roronoa Zoro",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013.png?250425"
+      }
+    },
+    "name": "Roronoa Zoro",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "ST01-014": {
+    "id": "ST01-014",
+    "face": {
+      "front": {
+        "name": "Guard Point",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png?250425"
+      }
+    },
+    "name": "Guard Point",
+    "type": "Event",
+    "cost": 1,
+    "power": null,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "attributes": []
+  },
+  "ST01-015": {
+    "id": "ST01-015",
+    "face": {
+      "front": {
+        "name": "Gum-Gum Jet Pistol",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png?250425"
+      }
+    },
+    "name": "Gum-Gum Jet Pistol",
+    "type": "Event",
+    "cost": 4,
+    "power": null,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": []
+  },
+  "ST01-016": {
+    "id": "ST01-016",
+    "face": {
+      "front": {
+        "name": "Diable Jambe",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png?250425"
+      }
+    },
+    "name": "Diable Jambe",
+    "type": "Event",
+    "cost": 1,
+    "power": null,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "attributes": []
+  },
+  "ST01-017": {
+    "id": "ST01-017",
+    "face": {
+      "front": {
+        "name": "Thousand Sunny",
+        "type": "Stage",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-017.png?250425"
+      }
+    },
+    "name": "Thousand Sunny",
+    "type": "Stage",
+    "cost": 2,
+    "power": null,
+    "colors": [
+      "Red"
+    ],
+    "subtypes": [
+      "Straw Hat Crew"
+    ],
+    "attributes": []
+  }
+}
