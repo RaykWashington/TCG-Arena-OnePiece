@@ -1,0 +1,400 @@
+[
+    {
+  "title": "Starter Straw Hat Deck",
+  "id": "185e2e8c-0e20-4771-a8ba-ca5ad538a6e2",
+  "game": "One Piece TCG",
+  "format": "Classic",
+  "cardCount": 61,
+  "createdAt": "2025-06-15T08:56:08.810Z",
+  "lastModifiedAt": "2025-06-16T03:42:11.523Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Leader",
+      "Character",
+      "Event",
+      "Stage",
+      "don"
+    ],
+    "Sideboard": [],
+    "Leader": [
+      {
+        "count": 1,
+        "id": "ST01-001"
+      }
+    ],
+    "Character": [
+      {
+        "count": 4,
+        "id": "ST01-006"
+      },
+      {
+        "count": 4,
+        "id": "ST01-007"
+      },
+      {
+        "count": 4,
+        "id": "ST01-002"
+      },
+      {
+        "count": 2,
+        "id": "ST01-011"
+      },
+      {
+        "count": 4,
+        "id": "ST01-004"
+      },
+      {
+        "count": 4,
+        "id": "ST01-009"
+      },
+      {
+        "count": 4,
+        "id": "ST01-005"
+      },
+      {
+        "count": 4,
+        "id": "ST01-008"
+      },
+      {
+        "count": 2,
+        "id": "ST01-013"
+      },
+      {
+        "count": 4,
+        "id": "ST01-010"
+      },
+      {
+        "count": 4,
+        "id": "ST01-003"
+      },
+      {
+        "count": 2,
+        "id": "ST01-012"
+      }
+    ],
+    "Event": [
+      {
+        "count": 2,
+        "id": "ST01-014"
+      },
+      {
+        "count": 2,
+        "id": "ST01-016"
+      },
+      {
+        "count": 2,
+        "id": "ST01-015"
+      }
+    ],
+    "Stage": [
+      {
+        "count": 2,
+        "id": "ST01-017"
+      }
+    ],
+    "don": [
+      {
+        "count": 10,
+        "id": "DON-don"
+      }
+    ]
+  }
+},
+{
+  "title": "Starter Green Deck (Captain Kid)",
+  "id": "7d3c0929-506f-4771-a26d-76681c4d0709",
+  "game": "One Piece TCG",
+  "format": "Classic",
+  "cardCount": 71,
+  "createdAt": "2025-06-16T03:30:16.060Z",
+  "lastModifiedAt": "2025-06-16T03:51:15.842Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Leader",
+      "Character",
+      "Event",
+      "don"
+    ],
+    "Sideboard": [],
+    "Leader": [
+      {
+        "count": 1,
+        "id": "ST02-001"
+      }
+    ],
+    "Character": [
+      {
+        "count": 4,
+        "id": "ST02-004"
+      },
+      {
+        "count": 4,
+        "id": "ST02-007"
+      },
+      {
+        "count": 4,
+        "id": "ST02-012"
+      },
+      {
+        "count": 2,
+        "id": "ST02-003"
+      },
+      {
+        "count": 4,
+        "id": "ST02-008"
+      },
+      {
+        "count": 2,
+        "id": "ST02-005"
+      },
+      {
+        "count": 4,
+        "id": "ST02-011"
+      },
+      {
+        "count": 4,
+        "id": "ST02-002"
+      },
+      {
+        "count": 4,
+        "id": "ST02-014"
+      },
+      {
+        "count": 4,
+        "id": "ST02-006"
+      },
+      {
+        "count": 2,
+        "id": "ST02-009"
+      },
+      {
+        "count": 2,
+        "id": "ST02-010"
+      },
+      {
+        "count": 2,
+        "id": "ST02-013"
+      },
+      {
+        "count": 10,
+        "id": "ST03-009"
+      }
+    ],
+    "Event": [
+      {
+        "count": 2,
+        "id": "ST02-015"
+      },
+      {
+        "count": 4,
+        "id": "ST02-016"
+      },
+      {
+        "count": 2,
+        "id": "ST02-017"
+      }
+    ],
+    "don": [
+      {
+        "count": 10,
+        "id": "DON-don"
+      }
+    ]
+  }
+},
+{
+  "title": "Starter Blue Deck (Crocodile)",
+  "id": "7725170b-23d6-4f98-bfe1-98fe2140dd80",
+  "game": "One Piece TCG",
+  "format": "Classic",
+  "cardCount": 57,
+  "createdAt": "2025-06-16T04:50:40.902Z",
+  "lastModifiedAt": "2025-06-16T04:51:34.830Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Leader",
+      "Character",
+      "Event",
+      "don"
+    ],
+    "Sideboard": [],
+    "Leader": [
+      {
+        "count": 1,
+        "id": "ST03-001"
+      }
+    ],
+    "Character": [
+      {
+        "count": 4,
+        "id": "ST03-008"
+      },
+      {
+        "count": 4,
+        "id": "ST03-013"
+      },
+      {
+        "count": 4,
+        "id": "ST03-011"
+      },
+      {
+        "count": 4,
+        "id": "ST03-010"
+      },
+      {
+        "count": 4,
+        "id": "ST03-006"
+      },
+      {
+        "count": 2,
+        "id": "ST03-007"
+      },
+      {
+        "count": 2,
+        "id": "ST03-014"
+      },
+      {
+        "count": 4,
+        "id": "ST03-002"
+      },
+      {
+        "count": 2,
+        "id": "ST03-004"
+      },
+      {
+        "count": 2,
+        "id": "ST03-005"
+      },
+      {
+        "count": 4,
+        "id": "ST03-012"
+      },
+      {
+        "count": 2,
+        "id": "ST03-003"
+      },
+      {
+        "count": 2,
+        "id": "ST03-009"
+      }
+    ],
+    "Event": [
+      {
+        "count": 4,
+        "id": "ST03-016"
+      },
+      {
+        "count": 2,
+        "id": "ST03-017"
+      }
+    ],
+    "don": [
+      {
+        "count": 10,
+        "id": "DON-don"
+      }
+    ]
+  }
+},
+{
+  "title": "Starter Deck Purple (Kaido)",
+  "id": "1a3d7cc5-a9a7-4eee-a426-b51534a81698",
+  "game": "One Piece TCG",
+  "format": "Classic",
+  "cardCount": 61,
+  "createdAt": "2025-06-16T04:52:12.374Z",
+  "lastModifiedAt": "2025-06-16T04:53:14.662Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Leader",
+      "Character",
+      "Event",
+      "Stage",
+      "don"
+    ],
+    "Sideboard": [],
+    "Leader": [
+      {
+        "count": 1,
+        "id": "ST04-001"
+      }
+    ],
+    "Character": [
+      {
+        "count": 4,
+        "id": "ST04-011"
+      },
+      {
+        "count": 4,
+        "id": "ST04-009"
+      },
+      {
+        "count": 2,
+        "id": "ST04-010"
+      },
+      {
+        "count": 4,
+        "id": "ST04-007"
+      },
+      {
+        "count": 4,
+        "id": "ST04-006"
+      },
+      {
+        "count": 2,
+        "id": "ST04-008"
+      },
+      {
+        "count": 4,
+        "id": "ST04-013"
+      },
+      {
+        "count": 4,
+        "id": "ST04-002"
+      },
+      {
+        "count": 4,
+        "id": "ST04-012"
+      },
+      {
+        "count": 2,
+        "id": "ST04-005"
+      },
+      {
+        "count": 2,
+        "id": "ST04-004"
+      },
+      {
+        "count": 2,
+        "id": "ST04-003"
+      }
+    ],
+    "Event": [
+      {
+        "count": 4,
+        "id": "ST04-016"
+      },
+      {
+        "count": 2,
+        "id": "ST04-014"
+      },
+      {
+        "count": 2,
+        "id": "ST04-015"
+      }
+    ],
+    "Stage": [
+      {
+        "count": 4,
+        "id": "ST04-017"
+      }
+    ],
+    "don": [
+      {
+        "count": 10,
+        "id": "DON-don"
+      }
+    ]
+  }
+}
+]
