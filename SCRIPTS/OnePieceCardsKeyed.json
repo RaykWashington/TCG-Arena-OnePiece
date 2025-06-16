@@ -63749,13 +63749,13 @@
     "id": "DON-don",
     "face": {
       "front": {
-        "name": "Your Turn +1000",
+        "name": "DON-don Your Turn +1000",
         "type": "don",
         "cost": 0,
         "image": "https://onepiece-cardgame.dev/images/cards/DON-don_630ca7_jp.jpg"
       }
     },
-    "name": "Your Turn +1000",
+    "name": "DON-don Your Turn +1000",
     "type": "don",
     "cost": 0,
     "power": 0,
