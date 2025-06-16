@@ -1,0 +1,18 @@
+map({
+id: .id,
+face:{
+  front:{
+    name: array(.id, .name)|join(" "),
+    type: .category,
+    cost: .cost,
+    image: .img_full_url
+    }
+  },
+  name: array(.id, .name)|join(" "),
+  type: .category,
+  cost: .cost,
+  power: .power,
+  colors: .colors,
+  subtype: .types,
+  attributes: .attributes
+})|keyBy(string(.id))
