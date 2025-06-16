@@ -63753,6 +63753,13 @@
         "type": "don",
         "cost": 0,
         "image": "https://onepiece-cardgame.dev/images/cards/DON-don_630ca7_jp.jpg"
+      },
+      "back": {
+        "name": "DON-don Your Turn +1000",
+        "type": "don",
+        "cost": 0,
+        "image": "https://i.imgur.com/nnC6mrr.png",
+        "isHorizontal": false
       }
     },
     "name": "DON-don Your Turn +1000",

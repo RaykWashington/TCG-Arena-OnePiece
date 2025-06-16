@@ -362,7 +362,7 @@
           },
           "don": {
             "title": "don",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
