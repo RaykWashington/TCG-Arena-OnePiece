@@ -56,7 +56,7 @@
           "Cost_Area",
           "Leader",
           "Stage_Card",
-          "DON_deck"
+          "don"
         ],
         "layout": {
           "direction": "column",
@@ -76,6 +76,32 @@
                   "content": [
                     {
                       "section": "Life",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": {
+                    "width": "22vh"
+                  },
+                  "content": [
+                    {
+                      "section": "Leader",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": {
+                    "width": "22vh"
+                  },
+                  "content": [
+                    {
+                      "section": "Stage_Card",
                       "style": false
                     }
                   ],
@@ -108,28 +134,13 @@
                       "style": false,
                       "content": [
                         {
-                          "section": "DON_deck",
+                          "section": "don",
                           "style": {
                             "width": "16vh"
                           }
                         },
                         {
                           "section": "Cost_Area",
-                          "style": false
-                        }
-                      ],
-                      "isSymetricalForOpponents": false
-                    },
-                    {
-                      "direction": "row",
-                      "style": false,
-                      "content": [
-                        {
-                          "section": "Leader",
-                          "style": false
-                        },
-                        {
-                          "section": "Stage_Card",
                           "style": false
                         }
                       ],
@@ -150,7 +161,8 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Leader"
+          "Leader",
+          "don"
         ],
         "autoPlayFromHand": {
           "Character": "Character_Section",
@@ -329,22 +341,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "DON_deck": {
-            "title": "DON_deck",
-            "isHidden": "yes",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Cost_Area": {
             "title": "Cost_Area",
             "isHidden": "no",
@@ -370,6 +366,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Character Section",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "don": {
+            "title": "don",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
