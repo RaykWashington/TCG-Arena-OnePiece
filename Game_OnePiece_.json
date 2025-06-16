@@ -1,9 +1,9 @@
 {
   "name": "One Piece TCG",
-  "menuBackgroundImage": "https://cf.geekdo-images.com/cpyej29PfijgBDtiOuSFsQ__opengraph/img/oyDAC9NT3fXqvfuaAXipLntZuNA=/0x680:869x1136/fit-in/1200x630/filters:strip_icc()/pic6974116.jpg",
+  "menuBackgroundImage": "https://i.imgur.com/C3yEbOg.jpeg",
   "defaultRessources": {
     "backgrounds": [
-      "https://cf.geekdo-images.com/cpyej29PfijgBDtiOuSFsQ__opengraph/img/oyDAC9NT3fXqvfuaAXipLntZuNA=/0x680:869x1136/fit-in/1200x630/filters:strip_icc()/pic6974116.jpg"
+      "https://i.imgur.com/C3yEbOg.jpeg"
     ],
     "decksUrl": ""
   },
@@ -11,7 +11,7 @@
   "cardRotation": 45,
   "cards": {
     "dataUrl": "https://raykwashington.github.io/TCG-Arena-OnePiece/One_Piece_CardList.json",
-    "cardBack": "https://cf.geekdo-images.com/cpyej29PfijgBDtiOuSFsQ__imagepagezoom/img/xms1Q7H_rdBvATzPJuiISO29Xt8=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6974116.jpg"
+    "cardBack": "https://i.imgur.com/C3yEbOg.jpeg"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -175,22 +175,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Character_Area": {
-            "title": "Character_Area",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Character Area",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Leader": {
             "title": "Leader",
             "isHidden": "no",
@@ -248,6 +232,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Character_Section": {
+            "title": "Character_Section",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Character Section",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
