@@ -55,7 +55,7 @@
           "Character_Section",
           "Cost_Area",
           "Leader",
-          "Stage_Card",
+          "Stage",
           "don"
         ],
         "layout": {
@@ -101,7 +101,7 @@
                   },
                   "content": [
                     {
-                      "section": "Stage_Card",
+                      "section": "Stage",
                       "style": false
                     }
                   ],
@@ -166,7 +166,7 @@
         ],
         "autoPlayFromHand": {
           "Character": "Character_Section",
-          "Stage": "Stage_Area",
+          "Stage": "Stage",
           "Event": "Stack"
         },
         "autoPlayFromStack": {
@@ -325,8 +325,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Stage_Card": {
-            "title": "Stage_Card",
+          "Stage": {
+            "title": "Stage",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
