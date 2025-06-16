@@ -7,7 +7,6 @@
       "https://i.imgur.com/QJTFqyt.jpeg",
       "https://i.imgur.com/Q8O6bhf.png",
       "https://i.imgur.com/CXaImtn.png"
-
     ],
     "decksUrl": ""
   },
@@ -57,7 +56,7 @@
         "customSections": [
           "Life",
           "Character_Section",
-          "Cost_Area",
+          "Mana",
           "Leader",
           "Stage",
           "don"
@@ -140,11 +139,11 @@
                         {
                           "section": "don",
                           "style": {
-                            "width": "16vh"
+                            "width": "10vh"
                           }
                         },
                         {
-                          "section": "Cost_Area",
+                          "section": "Mana",
                           "style": false
                         }
                       ],
@@ -345,22 +344,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Cost_Area": {
-            "title": "Cost_Area",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Character_Section": {
             "title": "Character_Section",
             "isHidden": "no",
@@ -386,6 +369,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Cost Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
