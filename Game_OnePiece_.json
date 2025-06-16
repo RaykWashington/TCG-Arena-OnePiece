@@ -344,7 +344,7 @@
           "Cost_Area": {
             "title": "Cost_Area",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -376,7 +376,7 @@
           "don": {
             "title": "don",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
