@@ -170,7 +170,8 @@
         "autoPlayFromHand": {
           "Character": "Character_Section",
           "Stage": "Stage",
-          "Event": "Stack"
+          "Event": "Stack",
+          "don": "Mana"
         },
         "autoPlayFromStack": {
           "Event": "Discard"
