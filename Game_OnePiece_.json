@@ -362,19 +362,11 @@
           },
           "don": {
             "title": "don",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "alignment": "DECK",
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "displayedTitle": "DON"
           },
           "Mana": {
             "title": "Mana",
