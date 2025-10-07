@@ -369,7 +369,6 @@
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "DECK",
-            "isHorizontalAllowed": true,
             "displayedTitle": "DON"
           },
           "Mana": {
