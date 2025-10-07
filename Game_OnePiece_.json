@@ -14,7 +14,10 @@
   "cardRotation": 45,
   "cards": {
     "dataUrl": "https://raykwashington.github.io/TCG-Arena-OnePiece/One_Piece_CardList.json",
-    "cardBack": "https://i.imgur.com/C3yEbOg.jpeg"
+    "cardBack": "https://i.imgur.com/C3yEbOg.jpeg",
+    "extraCardBacks": {
+        "don": "https://onepiece-cardgame.dev/images/cards/DON-don_630ca7_jp.jpg"
+      }
   },
   "deckBuilding": {
     "mainFilters": [
